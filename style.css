@@ -1,0 +1,39 @@
+/* * universal Selector */
+    *{margin: 0;
+    padding: 0;
+
+}
+/*Element Selector (p,div,etc...)*/
+ /*p{
+    color: red;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+/*class Selector (.class_name)*/
+.name{
+    color: blue;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#position{
+    font-weight: bold;
+    text-align: center;
+    color: gray;
+}
+
+.container{
+    border: 2px solid  red;
+    
+}
+/*Descendant Selector*/
+div h1{
+    color:gray;
+    text-align: center;
+
+}
+
